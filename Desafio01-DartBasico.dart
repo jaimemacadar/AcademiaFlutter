@@ -9,13 +9,13 @@ void main(List<String> args) {
     'João Rahman|55|Jornalista|SP',
   ];  
 
-//pacientes.sort();
+
 var infoPacientes;
 int quantidade=0;
 var nome;
 var sobrenomeOrdenado = [];
 var sobrenome = [];
-//List<List<String>> baseDeDadosPacientes;
+
 
 
 for (var i=0; i < pacientes.length; i++){    
@@ -51,8 +51,8 @@ for (var i=0; i < pacientes.length; i++){
     };
        
     
-    //print(sobrenome);
-    //print(sobrenomeOrdenado[i]);
+    
+    
 }
 
 
